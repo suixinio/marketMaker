@@ -1,0 +1,9 @@
+{
+    "restDomain": "http://api.dev.tokenbank.com:8080",
+    "token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJDQklTQ3pFek1UYzFPRE0yTnpBM0dnNUpUeTVFVDA1SExrNUZXRlJGV0NJRVZWTkZVaWdCIiwiYXVkIjoiSU8uRE9ORy5ORVhURVgiLCJpc3MiOiJJTy5ET05HLlVTRVJNQU5BR0VSIiwiZXhwIjoxNTA0MjU5MjYzfQ.SbWS6YoXQgLv4N62Yxchnu-ncyT1GgX5UCA8i8pzYck",
+    "token1":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJDQ0FTQ3pFek1USXlNelV4TmpBNEdnNUpUeTVFVDA1SExrNUZXRlJGV0NJRVZWTkZVaWdCIiwiYXVkIjoiSU8uRE9ORy5ORVhURVgiLCJpc3MiOiJJTy5ET05HLlVTRVJNQU5BR0VSIiwiZXhwIjoxNTAzOTE2NDY2fQ.3gQqzBtj0vEUdKigPsvdMj_ce8kujDkObF-A2Irx_xE",
+    "accountId": "18",
+    "interval": 1,
+    "market": "cny",
+    "debug": false
+}

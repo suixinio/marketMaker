@@ -1,0 +1,3 @@
+一.代码结构
+1.api
+通过websocket协议从okcoin接入okcoin柜台上数字货币的tick行情，通过rest协议从众安交易所接入

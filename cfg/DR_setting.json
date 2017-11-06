@@ -1,0 +1,12 @@
+{
+	"working": true,
+
+	"CTP_working": false,
+
+	"tick":
+	[
+		["btc", "OKCOIN"], ["ltc", "OKCOIN"], ["eth", "OKCOIN"]
+	]
+}
+
+

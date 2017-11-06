@@ -1,0 +1,653 @@
+2017-08-15 12:41:15,299 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 12:42:37,428 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:42:47,445 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:42:57,454 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:43:07,464 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:43:17,467 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:43:27,472 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:43:37,483 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:43:47,493 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:43:57,504 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:44:07,507 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:44:17,511 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:44:27,521 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:44:37,532 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:44:47,539 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:44:57,543 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:45:07,554 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:45:17,566 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:45:27,575 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:45:37,576 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:45:47,586 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:45:57,596 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:46:07,900 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 12:51:08,157 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 12:51:24,452 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 12:53:17,161 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 12:53:17,161 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 12:53:17,161 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 12:53:52,825 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 12:53:52,826 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 12:53:52,827 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 12:54:17,683 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 12:54:17,683 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 12:54:17,683 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 12:54:18,949 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 12:55:29,857 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 12:55:29,858 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 12:55:29,858 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 12:55:34,144 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 12:56:20,973 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 12:56:20,974 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 12:56:20,974 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 12:56:23,725 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 12:57:17,015 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 12:57:17,016 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 12:57:17,016 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 12:57:17,319 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 12:58:48,062 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 12:58:48,062 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 12:58:48,062 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 12:58:48,142 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:01:15,563 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 13:01:15,564 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 13:01:15,564 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 13:01:15,646 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:04:31,635 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 13:04:31,635 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 13:04:31,635 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 13:05:03,864 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 13:05:03,865 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 13:05:03,865 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 13:05:03,948 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:05:36,642 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 13:05:36,643 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 13:05:36,643 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 13:05:36,704 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:06:19,334 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 13:06:19,335 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 13:06:19,335 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 13:06:19,407 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:07:55,391 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 13:07:55,392 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 13:07:55,392 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 13:07:55,456 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:12:55,501 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:13:05,596 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:18:05,735 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:18:15,821 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:23:15,842 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:23:25,947 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:28:10,522 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:28:21,612 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:33:22,663 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:33:32,748 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:38:32,771 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:38:42,842 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:43:42,861 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:43:53,188 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:48:53,210 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:49:04,554 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:54:05,040 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:54:15,116 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 13:59:15,253 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 13:59:25,340 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 14:04:25,378 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 14:04:35,460 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 14:09:38,270 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 14:09:48,409 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 14:15:06,877 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 14:15:17,428 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 14:20:17,739 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 14:20:35,027 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 14:25:35,080 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 14:25:45,155 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 14:30:45,185 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 14:30:58,474 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 14:35:58,563 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 14:36:09,671 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 14:41:48,456 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 14:41:58,752 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 15:55:20,411 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 15:55:34,771 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:00:34,819 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:00:44,900 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:05:45,220 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:05:55,294 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:10:55,536 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:11:06,617 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:16:06,687 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:16:17,772 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:21:18,165 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:21:28,245 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:26:28,467 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:26:38,575 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:31:38,821 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:31:52,364 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:36:52,605 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:37:04,364 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:42:04,402 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:42:14,489 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:47:14,521 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:47:24,614 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:52:24,848 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:52:38,132 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 16:57:38,152 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 16:57:48,737 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:02:49,904 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 17:03:01,192 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:08:01,214 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 17:08:11,292 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:13:11,325 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 17:13:21,874 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:18:21,933 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 17:18:32,009 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:23:32,235 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 17:23:42,520 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:28:42,777 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 17:28:52,865 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:33:52,902 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 17:34:02,979 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:41:28,836 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 17:41:28,836 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 17:41:28,837 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 17:41:30,178 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:46:34,872 - test_okcoin_gateway.log - INFO - okcoin_gateway断开
+2017-08-15 17:46:45,164 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 17:50:48,122 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 17:50:48,122 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 17:50:48,122 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 17:50:48,196 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 18:14:47,125 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 18:14:47,128 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 18:14:47,128 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 18:14:48,007 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 18:15:26,348 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe btc
+2017-08-15 18:15:26,348 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe ltc
+2017-08-15 18:15:26,348 - test_okcoin_gateway.log - INFO - okcoin_gateway _subscribe eth
+2017-08-15 18:15:34,230 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-15 18:15:34,260 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:34,260 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:34,260 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:34,262 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:34,262 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:34,262 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:34,325 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:34,359 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:34,773 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:35,137 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:35,612 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:35,612 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:35,612 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:35,825 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:36,338 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:36,566 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:36,566 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:36,980 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:37,555 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:37,555 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:37,556 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:37,556 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:37,556 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:37,670 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:37,832 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:38,296 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:38,296 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:38,522 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:38,634 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-15 18:15:38,697 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-15 18:15:39,061 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 15:29:24,240 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-16 16:47:53,776 - test_okcoin_gateway.log - INFO - okcoin_gateway连上
+2017-08-16 16:55:10,878 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 16:55:10,880 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe btc
+2017-08-16 16:55:10,881 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ltc
+2017-08-16 16:55:10,881 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe eth
+2017-08-16 16:55:12,494 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 16:55:12,494 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:12,497 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:12,502 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:12,503 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:12,505 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:12,505 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:12,536 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:12,599 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:12,815 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:13,040 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:13,303 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:13,303 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:13,335 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:13,499 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:13,499 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:13,911 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:14,125 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:14,437 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:14,601 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:14,713 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:14,826 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:14,858 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY_SPOT.OKCOIN
+2017-08-16 16:55:15,302 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 16:55:15,302 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY_SPOT.OKCOIN
+2017-08-16 17:11:39,739 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:11:39,739 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:11:39,740 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:11:39,740 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-16 17:11:41,451 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:12:13,269 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:12:14,273 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:12:20,132 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:13:00,792 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:15:42,349 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:15:43,355 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:15:58,313 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:15:58,313 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:15:58,315 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-16 17:16:27,384 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:17:29,125 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:17:29,125 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:17:29,127 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-16 17:17:29,128 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:17:29,841 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:18:30,309 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:18:30,311 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:18:30,311 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-16 17:18:30,312 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:18:31,026 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:23:26,414 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:23:27,805 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:23:29,552 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-16 17:23:29,552 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:23:29,552 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:23:29,552 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,552 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,552 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,553 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,553 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,553 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,553 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,553 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,553 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,555 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,555 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,556 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,556 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,556 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,556 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,558 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,558 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,558 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,558 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,558 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,558 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,559 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,559 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,559 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,559 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,559 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,559 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,559 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,559 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,559 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,561 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,561 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,561 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,561 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,561 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,561 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,562 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,562 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,562 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,562 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,562 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,562 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,562 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,562 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,563 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,563 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,563 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,563 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,563 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,563 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,565 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,565 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,565 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,565 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,565 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,565 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,565 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,566 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,566 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,566 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,566 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,566 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,566 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,568 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,568 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,568 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,568 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,568 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,568 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,569 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,571 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,571 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,571 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,571 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,571 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,573 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,573 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,573 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,573 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,573 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,575 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,576 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,576 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,576 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,576 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,576 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,576 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,578 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,579 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,579 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,579 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,579 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,579 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,581 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,581 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,581 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,581 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,581 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,581 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,582 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,582 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,582 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,694 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,694 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,694 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:29,696 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,158 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,158 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,167 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,167 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,230 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,230 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,542 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,542 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,558 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,558 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,621 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,621 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,947 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:30,947 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,059 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,059 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,091 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,091 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,253 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,253 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,269 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,269 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,532 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,532 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,710 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:31,710 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,124 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,124 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,237 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,237 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,351 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,351 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,414 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,414 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,678 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,678 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,742 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:32,742 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,105 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,105 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,217 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,217 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,233 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,233 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,700 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,700 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,700 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,700 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,813 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:33,813 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,076 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,076 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,140 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,140 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,255 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,256 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,571 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:34,572 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,098 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,098 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,161 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,161 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,193 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,193 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,555 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,556 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,832 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,832 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,946 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:35,946 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,209 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,209 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,240 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,240 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,653 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,653 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,687 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,687 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,799 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,799 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,831 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,831 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,947 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:36,947 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:37,312 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:37,312 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:37,737 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:23:37,737 - test_okcoin_gateway.log - INFO - eTick. 
+2017-08-16 17:24:01,348 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:24:01,348 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:24:01,349 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-16 17:24:01,349 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:24:02,062 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:28:47,255 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:29:05,227 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:29:05,227 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-16 17:29:05,227 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:29:06,104 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:30:30,016 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:30:30,017 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:30:30,017 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-16 17:30:30,019 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:30:30,733 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:30:40,608 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:35,788 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-16 17:31:35,789 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-16 17:31:35,789 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-16 17:31:35,792 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-16 17:31:36,456 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-16 17:31:36,456 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:36,457 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:36,457 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:36,457 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:36,461 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:36,461 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:36,575 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:36,838 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:36,838 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:37,101 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:37,132 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:37,246 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:37,509 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:37,622 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:37,786 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:38,002 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:38,115 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:38,177 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:38,391 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:38,553 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:38,766 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:38,861 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:39,224 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:39,224 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:39,288 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:39,451 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:39,714 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:40,040 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:40,104 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:40,167 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:40,630 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:40,630 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:40,637 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:40,862 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:41,026 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:41,138 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:41,302 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:41,302 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:41,464 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:41,727 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:41,953 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:41,953 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:42,167 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:42,430 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:42,543 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:42,543 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:43,121 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:43,184 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:43,246 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:43,609 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:43,723 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:43,786 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:43,901 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:44,065 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:44,128 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:44,492 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:44,492 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:44,654 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:44,654 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:44,825 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:44,938 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:45,052 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:45,315 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:45,378 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:45,378 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:45,490 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:45,506 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:45,819 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:46,181 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:46,644 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:47,171 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:47,483 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:47,697 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:47,809 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:48,122 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:48,186 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:48,861 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:48,877 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:49,190 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:49,302 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:49,365 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:49,578 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:49,904 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:50,068 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:50,230 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:50,293 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:50,506 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:50,619 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:50,683 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-16 17:31:50,683 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:50,908 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:51,171 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:51,335 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:51,342 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:51,805 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:51,868 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-16 17:31:52,030 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:52,194 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-16 17:31:52,306 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:30,523 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe BTC_CNY
+2017-08-25 18:13:30,529 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe LTC_CNY
+2017-08-25 18:13:30,532 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway _subscribe ETH_CNY
+2017-08-25 18:13:30,535 - test_okcoin_gateway.log - INFO - eLog 接口初始化成功
+2017-08-25 18:13:31,849 - test_okcoin_gateway.log - INFO - eLog okcoin_gateway连上
+2017-08-25 18:13:31,858 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-25 18:13:31,862 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-25 18:13:31,865 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-25 18:13:31,869 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-25 18:13:31,875 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:31,877 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:31,943 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:32,357 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:32,635 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-25 18:13:32,644 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-25 18:13:32,707 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:32,772 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:33,236 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:33,500 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-25 18:13:33,746 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-25 18:13:33,750 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:33,964 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-25 18:13:33,980 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-25 18:13:34,045 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-25 18:13:34,158 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:34,423 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-25 18:13:34,552 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:34,667 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-25 18:13:34,881 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:35,144 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-25 18:13:35,309 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:35,658 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN
+2017-08-25 18:13:35,773 - test_okcoin_gateway.log - INFO - eTick. LTC_CNY.OKCOIN
+2017-08-25 18:13:35,836 - test_okcoin_gateway.log - INFO - eTick. ETH_CNY.OKCOIN
+2017-08-25 18:13:36,203 - test_okcoin_gateway.log - INFO - eTick. BTC_CNY.OKCOIN

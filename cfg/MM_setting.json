@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Market Balance",
+        "className": "MarketBalance",
+        "vtSymbol": ["BTC_CNY.ZHCOIN", "BTC_CNY.OKCOIN"],
+	    "spread": 0
+    }
+]
